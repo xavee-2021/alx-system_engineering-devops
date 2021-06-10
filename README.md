@@ -1,1 +1,1 @@
-Project for 0x00-shell basics
+Project for shell

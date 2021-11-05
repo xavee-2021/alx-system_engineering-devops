@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Statement on MAC and IP address
+"A MAC address is the unique identifier of a network interface."
+"An IP address is a number that network devices use to connect to networks."

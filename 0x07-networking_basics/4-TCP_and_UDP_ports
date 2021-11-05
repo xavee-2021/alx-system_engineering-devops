@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# UDP and TCP Ports
+"518/rpcbind"
+"1240/sshd"
+"547/rpc.statd"
+"518/rpcbind"
+"1240/sshd"
+"547/rpc.statd"
+

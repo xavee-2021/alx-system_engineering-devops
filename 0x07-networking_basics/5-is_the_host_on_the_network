@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Pinging the IP
+"ping 8.8.8.8"
+"ping 8.8.8.8"
+"ping 8.8.8.8"
+"ping 8.8.8.8"
+"ping 8.8.8.8"
